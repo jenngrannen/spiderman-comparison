@@ -4,7 +4,7 @@
 
 [**"Untangling Dense Non-Planar Knots by Learning Manipulation Features and Recovery Policies"**](https://sites.google.com/berkeley.edu/non-planar-untangling)
 
-**Priya Sundaresan*, Jennifer Grannen*, Brijen Thananjeyan, Ashwin Balakrishna, Jeffrey Ichnowski, Ellen Novoseller, Minho Hwang, Michael Laskey, Joseph E. Gonzalez, Ken Goldberg (*equal contribution)**
+__Priya Sundaresan*, Jennifer Grannen*, Brijen Thananjeyan, Ashwin Balakrishna, Jeffrey Ichnowski, Ellen Novoseller, Minho Hwang, Michael Laskey, Joseph E. Gonzalez, Ken Goldberg (*equal contribution)__
 
 ### Description
   * `docker`: Contains utils for building Docker images and Docker containers to manage Python dependencies used in this project 
